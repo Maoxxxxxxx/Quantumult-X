@@ -1,1 +1,13 @@
-http=a1.ap.fastqvpn.com:29980, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=Yijianlian VPN @maodaiyong
+http=a1.ap.fastqvpn.com:29980, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=香港01@maodaiyong
+http=a2.ap.fastqvpn.com:29980, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=香港02@maodaiyong
+http=a3.ap.fastqvpn.com:29980, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=香港03@maodaiyong
+http=a4.ap.fastqvpn.com:29980, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=香港04@maodaiyong
+http=a1.er3.xyz:29980, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港05@maodaiyong
+http=ap1-jp.er3.xyz:29985, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=日本01@maodaiyong
+http=ap1-sg.er3.xyz:29986, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=新加坡01@maodaiyong
+http=ap1-sg.er3.xyz:29986, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=新加坡01@maodaiyong
+http=ap1-uk.er3.xyz:29987, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=法国01@maodaiyong
+http=ap1-us.er3.xyz:29988, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=美国01@maodaiyong
+http=ap1-ge.er3.xyz:29984, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=美国02@maodaiyong
+http=ap1-ca.er3.xyz:29983, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=美国03@maodaiyong
+http=ap1-au.er3.xyz:29982, username=441968255897178112, password=b64b50cd-3dd9-45fe-9e3c-cae8729a06b5, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=美国04@maodaiyong
