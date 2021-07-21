@@ -1,11 +1,8 @@
-http=a1.ap.fastqvpn.com:29980, username=466034583041740800, password=bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=新加坡01@maodaiyong
-http=a2.ap.fastqvpn.com:29980, username=466034583041740800, password=bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=新加坡02@maodaiyong
-http=a3.ap.fastqvpn.com:29980, username=466034583041740800, password=bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=新加坡03@maodaiyong
-http=a4.ap.fastqvpn.com:29980, username=466034583041740800, password=bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=新加坡04@maodaiyong
-http=a1.er3.xyz:29980, username=466034583041740800, password=bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=新加坡05@maodaiyong
-http=ap1-jp.er3.xyz:29985, username=466034583041740800, password=bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=日本@maodaiyong
-http=ap1-uk.er3.xyz:29987, username=466034583041740800, password=bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=英国@maodaiyong
-http=ap1-us.er3.xyz:29988, username=466034583041740800, password=bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=美国@maodaiyong
-http=ap1-ge.er3.xyz:29984, username=466034583041740800, password=bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=德国@maodaiyong
-http=ap1-ca.er3.xyz:29983, username=466034583041740800, password=bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=加拿大@maodaiyong
-http=ap1-au.er3.xyz:29982, username=466034583041740800, password=bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=澳大利亚@maodaiyong
+  - {name: 🇭🇰 香港🛰️, server: jc.ap.fastqvpn.com, port: 29980, type: http, username: "466034583041740800", password:bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, tls: true, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡🛸, server: jc.ap.fastqvpn.com, port: 29988, type: http, username: "466034583041740800", password:bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, tls: true, skip-cert-verify: false}
+  - {name: 🇦🇺 澳大利亚🚁, server: jc.ap.fastqvpn.com, port: 29987, type: http, username: "466034583041740800", password:bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, tls: true, skip-cert-verify: true}
+  - {name: 🇨🇦 加拿大⛵, server: jc.ap.fastqvpn.com, port: 29983, type: http, username: "466034583041740800", password:bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, tls: true, skip-cert-verify: true}
+  - {name: 🇩🇪 德国🚀, server: jc.ap.fastqvpn.com, port: 29984, type: http, username: "466034583041740800", password:bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, tls: true, skip-cert-verify: true}
+  - {name: 🇯🇵 日本🛵, server: jc.ap.fastqvpn.com, port: 29985, type: http, username: "466034583041740800", password:bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, tls: true, skip-cert-verify: true}
+  - {name: 🇬🇧 英国🚆, server: jc.ap.fastqvpn.com, port: 29987, type: http, username: "466034583041740800", password:bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, tls: true, skip-cert-verify: true}
+  - {name: 🇺🇸 美国🚲, server: jc.ap.fastqvpn.com, port: 29985, type: http, username: "466034583041740800", password:bf8a4c4c-f8e0-44b5-ba60-e619ea3d3783, tls: true, skip-cert-verify: true}
